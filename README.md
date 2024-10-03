@@ -47,6 +47,6 @@ Berikut adalah beberapa karakteristik monitor mode:
 
 4. Menangkap semua jenis paket: Kartu jaringan dapat menangkap berbagai jenis paket (beacon frames, control frames, data frames, dll.), yang biasanya tidak terlihat dalam mode operasi normal.
 
-Tidak semua wireless card mendukung monitor mode, sehingga jika Anda memerlukan fitur ini, Anda perlu memastikan bahwa kartu jaringan nirkabel yang digunakan memiliki dukungan untuk monitor mode.
+Tidak semua wireless card mendukung monitor mode, sehingga jika Anda memerlukan fitur ini, Anda perlu memastikan bahwa kartu jaringan nirkabel yang digunakan memiliki dukungan untuk monitor mode dan untuk mengetahui apakah perangkat Wireless Card pada komputer kita support monitor mode dokumentasi lengkapnya bisa lihat di https://www.tamos.com/download/main/ca dan bisa lihat di https://www.acrylicwifi.com/en/wifi-sniffer/requirements-and-compatibility/
 
 #
