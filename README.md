@@ -22,6 +22,7 @@ Alat ini sangat berguna bagi pengguna biasa maupun profesional jaringan untuk me
 
 #
 <b>[ Features WiFi Network Analyzer ]</b>
+
 - Sequential Mode (Asinkron secara berurutan)
 - Random Mode (Asinkron secara random)
 - NpCap Mode (Metode ini di adaptasi dari Npcap Windows Packet Capture Library & Driver) Dokumentasi lengkap NpCap https://npcap.com/
@@ -48,5 +49,10 @@ Berikut adalah beberapa karakteristik monitor mode:
 4. Menangkap semua jenis paket: Kartu jaringan dapat menangkap berbagai jenis paket (beacon frames, control frames, data frames, dll.), yang biasanya tidak terlihat dalam mode operasi normal.
 
 Tidak semua wireless card mendukung monitor mode, sehingga jika Anda memerlukan fitur ini, Anda perlu memastikan bahwa kartu jaringan nirkabel yang digunakan memiliki dukungan untuk monitor mode dan untuk mengetahui apakah perangkat Wireless Card pada komputer kita support monitor mode dokumentasi lengkapnya bisa lihat di https://www.tamos.com/download/main/ca dan bisa lihat di https://www.acrylicwifi.com/en/wifi-sniffer/requirements-and-compatibility/
+
+#
+<b>[ Download WiFi Network Analyzer ]</b>
+
+Klik bagian <>Code lalu klik Download ZIP atau bisa langsung klik link ini https://codeload.github.com/MichaelJorky/WiFi-Network-Analyzer/zip/refs/heads/main lalu kemudian silahkan ekstrak filenya.
 
 #
