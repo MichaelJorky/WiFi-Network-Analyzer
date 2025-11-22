@@ -31,10 +31,6 @@ Alat ini sangat berguna bagi pengguna biasa maupun profesional jaringan untuk me
 - Testing Windows 10 Pro 22H2
 - Testing TP-LINK TL-WN722N v1
 
-~ (v1.0.0.1) Kamis 3 Oktober 2024 - First Release WiFi Network Analyzer
-
-~ (v1.0.0.2) Senin 16 Desember 2024 - Perbaikan Bug API Windows
-
 #
 <b>[ Wireless Card Support Monitor Mode ]</b>
 
