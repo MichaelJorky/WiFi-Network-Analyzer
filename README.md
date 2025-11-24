@@ -51,7 +51,7 @@ Tidak semua wireless card mendukung monitor mode, sehingga jika Anda memerlukan 
 #
 <b>[ Download WiFi Network Analyzer ]</b>
 
-1. Klik bagian <>Code lalu klik Download ZIP atau bisa langsung klik link ini https://codeload.github.com/MichaelJorky/WiFi-Network-Analyzer/zip/refs/heads/main lalu kemudian silahkan ekstrak filenya.
+1. Klik bagian <>Code lalu klik Download ZIP atau bisa langsung klik link ini https://github.com/MichaelJorky/WiFi-Network-Analyzer/releases lalu kemudian silahkan ekstrak filenya.
 
 2. Secara default "Sequential Mode" akan menggunakan Sequential_Mode.txt dan untuk memperbarui daftar Password Wi-Fi lebih banyak Anda bisa memindahkan daftar wifi password list dari Wifi_Password_List.txt ke Sequential_Mode.txt 
 
